@@ -1,0 +1,8 @@
+D:\🍆💦\ТПО 2022\GraphMST\bin\Debug\GraphMST.exe.config
+D:\🍆💦\ТПО 2022\GraphMST\bin\Debug\GraphMST.exe
+D:\🍆💦\ТПО 2022\GraphMST\bin\Debug\GraphMST.pdb
+D:\🍆💦\ТПО 2022\GraphMST\obj\Debug\GraphMST.csproj.AssemblyReference.cache
+D:\🍆💦\ТПО 2022\GraphMST\obj\Debug\GraphMST.csproj.SuggestedBindingRedirects.cache
+D:\🍆💦\ТПО 2022\GraphMST\obj\Debug\GraphMST.csproj.CoreCompileInputs.cache
+D:\🍆💦\ТПО 2022\GraphMST\obj\Debug\GraphMST.exe
+D:\🍆💦\ТПО 2022\GraphMST\obj\Debug\GraphMST.pdb
